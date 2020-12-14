@@ -15,7 +15,7 @@ Authors
 ---------
 | Name   | Email       |              |
 |:------ |:----------- | :----------- |
-| Lu Zhang | lu.zhang@ucla.edu        | PhD student, Department of Biostatistics UCLA  |
+| Lu Zhang | lu.zhang@ucla.edu        | PhD, Department of Biostatistics UCLA  |
 
 
 Licensing
